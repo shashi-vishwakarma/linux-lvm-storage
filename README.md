@@ -17,7 +17,7 @@ to create, mount, extend, and snapshot logical volumes.
 
 ## Commands Used
 ```bash
-# Partition banana
+# Partition create
 fdisk /dev/sdb
 
 # LVM setup
